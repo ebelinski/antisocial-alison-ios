@@ -1,4 +1,108 @@
 {
+  "stickers" : [
+    {
+      "filename" : "alison1.sticker"
+    },
+    {
+      "filename" : "alison2.sticker"
+    },
+    {
+      "filename" : "alison3.sticker"
+    },
+    {
+      "filename" : "alison4.sticker"
+    },
+    {
+      "filename" : "alison5.sticker"
+    },
+    {
+      "filename" : "alison6.sticker"
+    },
+    {
+      "filename" : "alison7.sticker"
+    },
+    {
+      "filename" : "alison8.sticker"
+    },
+    {
+      "filename" : "alison9.sticker"
+    },
+    {
+      "filename" : "alison10.sticker"
+    },
+    {
+      "filename" : "alison11.sticker"
+    },
+    {
+      "filename" : "alison12.sticker"
+    },
+    {
+      "filename" : "alison13.sticker"
+    },
+    {
+      "filename" : "alison14.sticker"
+    },
+    {
+      "filename" : "alison15.sticker"
+    },
+    {
+      "filename" : "alison16.sticker"
+    },
+    {
+      "filename" : "alison17.sticker"
+    },
+    {
+      "filename" : "alison18.sticker"
+    },
+    {
+      "filename" : "alison19.sticker"
+    },
+    {
+      "filename" : "alison20.sticker"
+    },
+    {
+      "filename" : "alison21.sticker"
+    },
+    {
+      "filename" : "alison22.sticker"
+    },
+    {
+      "filename" : "alison23.sticker"
+    },
+    {
+      "filename" : "alison24.sticker"
+    },
+    {
+      "filename" : "alison25.sticker"
+    },
+    {
+      "filename" : "alison26.sticker"
+    },
+    {
+      "filename" : "alison27.sticker"
+    },
+    {
+      "filename" : "alison28.sticker"
+    },
+    {
+      "filename" : "alison29.sticker"
+    },
+    {
+      "filename" : "alison30.sticker"
+    },
+    {
+      "filename" : "alison31.sticker"
+    },
+    {
+      "filename" : "alison32.sticker"
+    },
+    {
+      "filename" : "alison33.sticker"
+    },
+    {
+      "filename" : "alison34.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

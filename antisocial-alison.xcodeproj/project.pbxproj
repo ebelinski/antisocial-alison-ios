@@ -106,10 +106,12 @@
 				TargetAttributes = {
 					B6ACA3531F65E312004FBB1C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = H7ATB2ZBVD;
 						ProvisioningStyle = Automatic;
 					};
 					B6ACA3571F65E312004FBB1C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = H7ATB2ZBVD;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -256,6 +258,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = H7ATB2ZBVD;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebelinski.antisocial-alison.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -267,6 +270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = H7ATB2ZBVD;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebelinski.antisocial-alison.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -278,6 +282,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = H7ATB2ZBVD;
 				INFOPLIST_FILE = "antisocial-alison/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebelinski.antisocial-alison";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -288,6 +293,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = H7ATB2ZBVD;
 				INFOPLIST_FILE = "antisocial-alison/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebelinski.antisocial-alison";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -313,6 +319,7 @@
 				B6ACA3631F65E312004FBB1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B6ACA3651F65E312004FBB1C /* Build configuration list for PBXNativeTarget "antisocial-alison" */ = {
 			isa = XCConfigurationList;
@@ -321,6 +328,7 @@
 				B6ACA3671F65E312004FBB1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
