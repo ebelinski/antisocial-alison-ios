@@ -1,6 +1,9 @@
 {
   "stickers" : [
     {
+      "filename" : "alison0.sticker"
+    },
+    {
       "filename" : "alison1.sticker"
     },
     {
@@ -107,6 +110,9 @@
     },
     {
       "filename" : "alison36.sticker"
+    },
+    {
+      "filename" : "alison37.sticker"
     }
   ],
   "info" : {
