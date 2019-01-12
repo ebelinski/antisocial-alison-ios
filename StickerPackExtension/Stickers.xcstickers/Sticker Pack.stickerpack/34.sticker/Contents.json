@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A face of a cat with text superimposed that says \"my cat says no\"",
     "filename" : "34.png"
   }
 }

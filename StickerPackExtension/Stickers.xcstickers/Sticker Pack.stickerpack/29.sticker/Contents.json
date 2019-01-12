@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A ribbon that says \"you tried\"",
     "filename" : "29.png"
   }
 }

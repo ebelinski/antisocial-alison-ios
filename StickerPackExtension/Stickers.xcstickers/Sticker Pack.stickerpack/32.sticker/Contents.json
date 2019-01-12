@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A broken light bulb with the text \"time to shine\"",
     "filename" : "32.png"
   }
 }

@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A sparkling monitor that has the text \"extremely online\"",
     "filename" : "38.png"
   }
 }

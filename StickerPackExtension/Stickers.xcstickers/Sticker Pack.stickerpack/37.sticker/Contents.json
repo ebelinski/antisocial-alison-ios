@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A speech bubble that says \"log off\"",
     "filename" : "37.png"
   }
 }

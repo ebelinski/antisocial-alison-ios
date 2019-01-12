@@ -4,6 +4,7 @@
     "author" : "xcode"
   },
   "properties" : {
+    "accessibility-label" : "A sticky note that says \"be right back never\"",
     "filename" : "31.png"
   }
 }
