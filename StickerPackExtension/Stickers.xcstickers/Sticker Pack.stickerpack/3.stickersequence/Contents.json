@@ -1,7 +1,7 @@
 {
   "properties" : {
-    "duration" : 15,
-    "duration-type" : "fps",
+    "duration" : 4,
+    "duration-type" : "fixed",
     "repetitions" : 0
   },
   "info" : {
