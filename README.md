@@ -5,3 +5,7 @@ Antisocial Alison is an iMessage sticker pack available in the iOS App Store. Th
 [![Download on the App Store](media/app-store-badge.svg)](https://itunes.apple.com/us/app/antisocial-alison/id1282813067?mt=8)
 
 ![Antisocial Alison stickers on iPhone X](media/screenshots.jpg)
+
+## Development
+
+Pngyu is a good application for reducing PNG file size to meet the 512 KB limit per sticker.
