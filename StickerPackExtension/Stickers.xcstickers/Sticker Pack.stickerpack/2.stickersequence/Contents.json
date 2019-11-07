@@ -1,0 +1,19 @@
+{
+  "properties" : {
+    "duration" : 1.5,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "2-1.png"
+    },
+    {
+      "filename" : "2-2.png"
+    }
+  ]
+}
