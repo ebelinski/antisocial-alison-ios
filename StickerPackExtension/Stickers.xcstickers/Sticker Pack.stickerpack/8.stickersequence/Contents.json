@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "duration" : 3,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "8-1.png"
+    },
+    {
+      "filename" : "8-2.png"
+    },
+    {
+      "filename" : "8-3.png"
+    },
+    {
+      "filename" : "8-4.png"
+    },
+    {
+      "filename" : "8-5.png"
+    }
+  ]
+}
