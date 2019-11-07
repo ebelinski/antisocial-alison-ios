@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "duration" : 3,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "34-1.png"
+    },
+    {
+      "filename" : "34-2.png"
+    },
+    {
+      "filename" : "34-3.png"
+    },
+    {
+      "filename" : "34-4.png"
+    },
+    {
+      "filename" : "34-5.png"
+    },
+    {
+      "filename" : "34-6.png"
+    },
+    {
+      "filename" : "34-7.png"
+    },
+    {
+      "filename" : "34-8.png"
+    }
+  ]
+}
