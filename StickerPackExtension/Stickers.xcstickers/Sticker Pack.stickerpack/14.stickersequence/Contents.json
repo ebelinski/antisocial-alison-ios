@@ -1,6 +1,6 @@
 {
   "properties" : {
-    "duration" : 1,
+    "duration" : 0.69999999999999996,
     "duration-type" : "fixed",
     "repetitions" : 0
   },
@@ -20,6 +20,15 @@
     },
     {
       "filename" : "14-4.png"
+    },
+    {
+      "filename" : "14-5.png"
+    },
+    {
+      "filename" : "14-6.png"
+    },
+    {
+      "filename" : "14-7.png"
     }
   ]
 }
