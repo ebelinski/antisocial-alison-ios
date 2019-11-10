@@ -1,6 +1,6 @@
 {
   "properties" : {
-    "duration" : 4,
+    "duration" : 1,
     "duration-type" : "fixed",
     "repetitions" : 0
   },
@@ -9,12 +9,6 @@
     "author" : "xcode"
   },
   "frames" : [
-    {
-      "filename" : "27-1.png"
-    },
-    {
-      "filename" : "27-2.png"
-    },
     {
       "filename" : "27-3.png"
     },
