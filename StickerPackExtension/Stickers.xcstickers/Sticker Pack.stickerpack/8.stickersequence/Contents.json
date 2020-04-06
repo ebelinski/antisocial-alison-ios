@@ -1,13 +1,4 @@
 {
-  "properties" : {
-    "duration" : 2,
-    "duration-type" : "fixed",
-    "repetitions" : 0
-  },
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
   "frames" : [
     {
       "filename" : "8-1.png"
@@ -24,5 +15,15 @@
     {
       "filename" : "8-5.png"
     }
-  ]
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "accessibility-label" : "Alison looking at her rapidly ticking watch with an annoyed expression, and looking at the viewer",
+    "duration" : 2,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  }
 }

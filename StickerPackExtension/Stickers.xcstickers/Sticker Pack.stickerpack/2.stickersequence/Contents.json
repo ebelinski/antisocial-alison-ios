@@ -1,13 +1,4 @@
 {
-  "properties" : {
-    "duration" : 2,
-    "duration-type" : "fixed",
-    "repetitions" : 0
-  },
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
   "frames" : [
     {
       "filename" : "2-1.png"
@@ -15,5 +6,15 @@
     {
       "filename" : "2-2.png"
     }
-  ]
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "accessibility-label" : "Alison looking down at her cup of coffee and then looking up with an annoyed look",
+    "duration" : 2,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  }
 }

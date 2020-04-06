@@ -1,13 +1,4 @@
 {
-  "properties" : {
-    "duration" : 1,
-    "duration-type" : "fixed",
-    "repetitions" : 0
-  },
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
   "frames" : [
     {
       "filename" : "15-1.png"
@@ -15,5 +6,15 @@
     {
       "filename" : "15-2.png"
     }
-  ]
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "accessibility-label" : "Alison waving while having her back turned to the viewer",
+    "duration" : 1,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  }
 }

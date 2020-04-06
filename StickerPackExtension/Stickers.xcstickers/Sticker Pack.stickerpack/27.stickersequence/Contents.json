@@ -1,13 +1,4 @@
 {
-  "properties" : {
-    "duration" : 1,
-    "duration-type" : "fixed",
-    "repetitions" : 0
-  },
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
   "frames" : [
     {
       "filename" : "27-3.png"
@@ -27,5 +18,15 @@
     {
       "filename" : "27-8.png"
     }
-  ]
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "accessibility-label" : "Alison with a party hat on, holding her hand up in celebration, blowing a party horn, with a very bored facial expression",
+    "duration" : 1,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  }
 }

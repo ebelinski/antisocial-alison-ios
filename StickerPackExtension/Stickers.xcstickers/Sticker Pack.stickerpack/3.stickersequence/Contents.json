@@ -1,13 +1,4 @@
 {
-  "properties" : {
-    "duration" : 4,
-    "duration-type" : "fixed",
-    "repetitions" : 0
-  },
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
   "frames" : [
     {
       "filename" : "3-1.png"
@@ -33,5 +24,15 @@
     {
       "filename" : "3-9.png"
     }
-  ]
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "accessibility-label" : "Alison looking back and forth between her phone and the viewer, with an annoyed expression",
+    "duration" : 4,
+    "duration-type" : "fixed",
+    "repetitions" : 0
+  }
 }
